@@ -1,0 +1,48 @@
+h1 {
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 100px;
+  color: khaki;
+  text-align: center;
+  background-image: url("./background-pattern.jpeg");
+}
+
+/*
+had to specify the anchor tag to effect the color change on the text
+had to specify the class alone to effect the color change on the bullets
+*/
+.supplies,
+.supplies ul li a {
+  font-family: helvetica;
+  font-size: 20px;
+  color: darkgreen;
+}
+
+.price {
+  font-family: Helvetica;
+  font-weight; bold;
+  color: Blue;
+}
+
+h2 {
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 32px;
+  color: white;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+.hacksaw-brushes {
+  background-color: mediumspringgreen;
+}
+
+.art-frames {
+  background-color: lightcoral;
+}
+
+.finnish-paints {
+  background-color: skyblue;
+}
